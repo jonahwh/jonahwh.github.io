@@ -1,0 +1,36 @@
+body {
+    background-color: #555;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+#icons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#github {
+    background-image: url('img/github.svg');
+}
+
+#github path {
+    fill: #fff;
+}
+
+#google-play {
+    background-image: url('img/google-play.svg');
+}
+
+#title {
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.icon {
+    width: 400px;
+    height: 400px;
+    background: no-repeat center;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
