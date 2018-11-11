@@ -2,6 +2,10 @@ body {
     background-color: #555;
 }
 
+.card {
+    margin-top: 50px;
+}
+
 .profile-card {
     margin-top: 150px;
 }
@@ -40,8 +44,8 @@ body {
     border-color: rgba(0, 0, 0, 0) transparent transparent #fff;
 }
 
-.summary {
-    margin-top: 50px;
+.icon {
+    
 }
 
 @media (max-width: 992px) {
