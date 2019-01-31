@@ -6,6 +6,10 @@ body {
     margin-top: 50px;
 }
 
+.card:last-child {
+    margin-bottom: 50px;
+}
+
 .profile-card {
     margin-top: 150px;
 }
